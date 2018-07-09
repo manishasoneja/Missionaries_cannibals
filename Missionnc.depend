@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1525795095 source:/home/manisha/Documents/Missionnc/drawingscenery.c
+	<stdio.h>
+	<stdlib.h>
+	<GL/glut.h>
+
+1527566293 source:/home/manisha/Documents/Missionnc/main.c
+	<stdio.h>
+	<stdlib.h>
+	<GL/glut.h>
+
+1525795095 source:/home/manisha/Documents/FinalProject/drawingscenery.c
+	<stdio.h>
+	<stdlib.h>
+	<GL/glut.h>
+
+1527566293 source:/home/manisha/Documents/FinalProject/main.c
+	<stdio.h>
+	<stdlib.h>
+	<GL/glut.h>
+
